@@ -1,0 +1,22 @@
+.faq-title-container {
+  margin-bottom: 15px;
+}
+.faq-title {
+  font-size: 20px;
+  font-weight: bolder;
+  color: rgb(100, 98, 98);
+  margin: 20px;
+}
+
+.faq-item-container {
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+  padding: 16px;
+  margin-bottom: 10px;
+  display: flex;
+}
+
+.title-list-item {
+  font-size: 14px;
+  color: rgb(126, 124, 124);
+  font-weight: bold;
+}
